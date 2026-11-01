@@ -49,7 +49,7 @@
     "generic-pool": "^3.9.0",
     "ioredis": "^5.2.4",
     "jsonrepair": "^3.0.2",
-    "liquidjs": "^10.9.2",
+    "liquidjs": "^10.27.2",
     "luxon": "^3.1.0",
     "mustache": "^4.2.0",
     "mysql2": "^3.11.5",
